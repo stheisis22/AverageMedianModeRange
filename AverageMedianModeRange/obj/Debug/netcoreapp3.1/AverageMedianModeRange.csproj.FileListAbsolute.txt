@@ -1,0 +1,13 @@
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\bin\Debug\netcoreapp3.1\AverageMedianModeRange.exe
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\bin\Debug\netcoreapp3.1\AverageMedianModeRange.deps.json
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\bin\Debug\netcoreapp3.1\AverageMedianModeRange.runtimeconfig.json
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\bin\Debug\netcoreapp3.1\AverageMedianModeRange.runtimeconfig.dev.json
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\bin\Debug\netcoreapp3.1\AverageMedianModeRange.dll
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\bin\Debug\netcoreapp3.1\AverageMedianModeRange.pdb
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\obj\Debug\netcoreapp3.1\AverageMedianModeRange.csprojAssemblyReference.cache
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\obj\Debug\netcoreapp3.1\AverageMedianModeRange.AssemblyInfoInputs.cache
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\obj\Debug\netcoreapp3.1\AverageMedianModeRange.AssemblyInfo.cs
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\obj\Debug\netcoreapp3.1\AverageMedianModeRange.csproj.CoreCompileInputs.cache
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\obj\Debug\netcoreapp3.1\AverageMedianModeRange.dll
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\obj\Debug\netcoreapp3.1\AverageMedianModeRange.pdb
+C:\Users\sthei\OneDrive - INTEC\INTEC\Tendencia de aplicaciones\AverageMedianModeRange\obj\Debug\netcoreapp3.1\AverageMedianModeRange.genruntimeconfig.cache
